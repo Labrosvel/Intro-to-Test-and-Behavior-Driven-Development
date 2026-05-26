@@ -7,3 +7,17 @@ https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd?spec
 - Testing Levels and Release Cycle
 - TDD and BDD
 - Testing Case Study
+
+## Module 2: Test Driven Development
+- Benefits of Test Driven Development
+- Tools for TDD
+- Running Tests with Nose
+- Running Tests with Nose Demo
+- Lab 2a: Running Tests with Nose
+- Anatomy of a Test Case
+- Writing Test Assertions
+- Writing Test Assertions Demo
+- Lab 2b: Writing Test Assertions
+- Test Fixtures
+- Creating an Initial State Using Test Fixtures Demo
+- Lab 2c: Creating an Initial State Using Test Fixtures
