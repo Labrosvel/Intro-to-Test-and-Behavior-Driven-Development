@@ -11,6 +11,7 @@ https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd?spec
 ## Module 2: Test Driven Development
 - Benefits of Test Driven Development
 - Tools for TDD (PyUnit, Pytest, Doctest, RSpec, Nose)
+----------------------------------------------------------
 - Running Tests with Nose
 - Running Tests with Nose Demo
 - Lab 2a: Running Tests with Nose
