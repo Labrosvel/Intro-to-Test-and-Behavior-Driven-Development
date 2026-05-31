@@ -4,7 +4,7 @@ https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd?spec
 ## Module 1: Introduction to Software Testing
 - The Importance of Testing
 - Why Developers Don’t Test
-- Testing Levels and Release Cycle
+- Testing Levels and Release Cycle (Unit Tests, Integration Tests, System Tests, Acceptance Tests)
 - TDD and BDD
 - Testing Case Study
 
