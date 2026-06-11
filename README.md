@@ -39,3 +39,11 @@ https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd?spec
 - Practicing Test Driven Development
 - Practicing Test Driven Development Demo
 - Lab 3d: Practicing Test Driven Development
+
+## Module 4: Behavior Driven Development
+### Intro to Behavior Driven Development
+- What is Behavior Driven Development?
+- Benefits of BDD
+- BDD Workflow and Gherkin Syntax
+- Example of BDD
+- Tools for Behavior Driven Development
