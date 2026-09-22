@@ -55,9 +55,3 @@ https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd?spec
 - Writing Step Files
 - Loading Test Data with Behave
 - Lab 4c: Loading Test Data with Behave
-
-
-
-
-Practice Quiz: Methods for Behavior Driven Development
-Practice Assignment. Duration: 10 minutes10 min
