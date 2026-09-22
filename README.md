@@ -37,3 +37,27 @@ https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd?spec
 - Practicing Test Driven Development
 - Practicing Test Driven Development Demo
 - Lab 3d: Practicing Test Driven Development
+
+## Module 4: Behavior Driven Development
+- Introduction to Behavior Driven Development
+- What is Behavior Driven Development?
+- Benefits of BDD
+- BDD Workflow and Gherkin Syntax
+- Example of BDD
+- Tools for Behavior Driven Development
+- Methods for Behavior Driven Development
+- Overview of Behave
+- Environment Setup
+- Lab 4a: Setting up an Environment in Behave
+- Writing Feature Files
+- Lab 4b: Writing Feature Files
+- Selenium
+- Writing Step Files
+- Loading Test Data with Behave
+- Lab 4c: Loading Test Data with Behave
+
+
+
+
+Practice Quiz: Methods for Behavior Driven Development
+Practice Assignment. Duration: 10 minutes10 min
