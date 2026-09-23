@@ -45,7 +45,6 @@ https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd?spec
 - BDD Workflow and Gherkin Syntax
 - Example of BDD
 - Tools for Behavior Driven Development
-- Methods for Behavior Driven Development
 - Overview of Behave
 - Environment Setup
 - Lab 4a: Setting up an Environment in Behave
